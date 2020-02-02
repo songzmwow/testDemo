@@ -7,3 +7,5 @@ asdg
 assert dg
 asdg
 
+new add push
+ 
